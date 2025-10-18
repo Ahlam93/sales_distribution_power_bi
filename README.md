@@ -1,14 +1,14 @@
 # Sales Distribution Dashboard
 
 
-## 🧾 Project Overview
+##  Project Overview
 The **Sales Distribution Dashboard** is an interactive data visualization project designed to analyze and display key sales performance indicators across regions, products, and time periods. It helps decision-makers quickly identify trends, track revenue performance, and optimize sales strategies based on data insights.
 
 
 ---
 
 
-## 🎯 Objectives
+##  Objectives
 - Visualize **sales distribution** by region, category, and product.
 - Track **profit and cost** metrics across time.
 - Provide actionable insights for business decision-making.
@@ -18,7 +18,7 @@ The **Sales Distribution Dashboard** is an interactive data visualization projec
 ---
 
 
-## 📈 Key Insights
+##  Key Insights
 - Regional performance comparisons reveal top-performing markets.
 - Product-level profit margins highlight which items drive profitability.
 - Monthly and quarterly trends visualize seasonality and growth.
