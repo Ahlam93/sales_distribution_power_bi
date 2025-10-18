@@ -18,19 +18,6 @@ The **Sales Distribution Dashboard** is an interactive data visualization projec
 ---
 
 
-## 🧰 Tools & Technologies
-- **Microsoft Power BI / Excel** for data visualization
-- **Python / Pandas** (if preprocessing applied)
-- **Data Sources:**
-- `Data+to+copy.xlsx` — Main sales and profit dataset
-- `costs table.csv` — Supplementary cost details
-- **Dashboard Export:**
-- `Sales_Distribution.pdf` — Final presentation dashboard (static view)
-
-
----
-
-
 ## 📈 Key Insights
 - Regional performance comparisons reveal top-performing markets.
 - Product-level profit margins highlight which items drive profitability.
